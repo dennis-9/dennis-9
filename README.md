@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-9" alt="dennis-9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@dennisasiedu30" target="blank"><img src="https://img.shields.io/twitter/follow/@dennisasiedu30?logo=twitter&style=for-the-badge" alt="@dennisasiedu30" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dennisasiedu30" target="blank"><img src="https://img.shields.io/twitter/follow/@dennisasiedu30?logo=twitter&style=for-the-badge" alt="dennisasiedu30" /></a> </p>
 
 - 🔭 I’m currently working on **Campus MarketPlace**
 
