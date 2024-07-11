@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Campus MarketPlace**
 
-- 🌱 I’m currently learning **React and Exploring more on Python Projects**
+- 🌱 I’m currently learning **Blockchain React and Exploring more on Python Projects**
 
 - 💬 Ask me about **Python, JavaScript and Tech Stuff**
 
