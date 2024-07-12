@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A passionate Junior Software Engineer</h3>
 
