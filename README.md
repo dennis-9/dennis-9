@@ -2,12 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A passionate Junior Software Engineer</h3>
+An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :IoT: Arduino, 🚀 Raspberry Pi, :new: Innovation and Automation :robot:
 
+![focus](https://img.shields.io/badge/Focus-FullStack/SoftwareEngineering-brightgreen)
+![living](https://img.shields.io/badge/Living-Ghana-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis-9&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-9" alt="dennis-9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@dennisasiedu30" target="blank"><img src="https://img.shields.io/twitter/follow/@dennisasiedu30?logo=twitter&style=for-the-badge" alt="dennisasiedu30" /></a> </p>
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Campus MarketPlace**
 
@@ -77,13 +82,28 @@
 
 
 
+## 🏆 Github Status
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dennis-9&show_icons=true&locale=en&theme=radical" width="45%" alt="dennis-9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-9&theme=dark" width="45%" alt="dennis-9" />
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-9&show_icons=true&locale=en&layout=compact&theme=radical" width="45%" alt="dennis-9" /></p>
+
+<div align="center">
+
+<br>
+<br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-9&show_icons=true&locale=en&layout=compact" alt="dennis-9" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennis-9&show_icons=true&locale=en" alt="dennis-9" /></p>
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-9&" alt="dennis-9" /></p>
+
+
+
+<p>&nbsp;</p>
+
+<p></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/qhthrcizbx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="qhthrcizbx" /></a></p><br><br>
