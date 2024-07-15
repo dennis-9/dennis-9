@@ -8,10 +8,6 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 ![living](https://img.shields.io/badge/Living-Ghana-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennis-9&label=Profile%20views&color=0e75b6&style=flat" alt="dennis-9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-9" alt="dennis-9" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@dennisasiedu30" target="blank"><img src="https://img.shields.io/twitter/follow/@dennisasiedu30?logo=twitter&style=for-the-badge" alt="dennisasiedu30" /></a> </p>
-
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Campus MarketPlace**
@@ -24,6 +20,25 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 
 - ⚡ Fun fact **Will write code for food😂**
 
+
+
+<br >
+
+
+
+## 🏆 Github Status
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dennis-9&show_icons=true&locale=en&theme=radical" width="45%" alt="dennis-9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-9&theme=dark" width="45%" alt="dennis-9" />
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-9&theme=radical" width="70%" alt="dennis-9" /></a></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-9&show_icons=true&locale=en&layout=compact&theme=radical" width="45%" alt="dennis-9" />
+
+
+<div align="center">
+
+<br>
+<br>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -78,25 +93,9 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 
 <br >
 
-<br >
-
-
-
-## 🏆 Github Status
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dennis-9&show_icons=true&locale=en&theme=radical" width="45%" alt="dennis-9" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-9&theme=dark" width="45%" alt="dennis-9" />
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-9&show_icons=true&locale=en&layout=compact&theme=radical" width="45%" alt="dennis-9" /></p>
-
-<div align="center">
-
-<br>
 <br>
 
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
+<!--<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >-->
 
 
 
